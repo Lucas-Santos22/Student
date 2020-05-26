@@ -16,9 +16,6 @@ public class Student {
         this.name = name;
     }
     
-    /*
-    may 26 2020
-    */
 
 }
  
